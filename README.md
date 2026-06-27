@@ -37,6 +37,18 @@ project_1
 ├── frontend/
 └── backend/
 
+##Screenshot
+
+-Login Page
+-Register Page
+-Admin Dashboard
+-Doctor Dashboard
+-Patient Dashboard
+-My Profile Page
+-Appointment Page
+-Doctors Available Page
+
 ## Author
 
 Vishal D
+Full Stack Developer
